@@ -8,7 +8,7 @@ $(document).ready(function () {
         navMobile.show();
 
     }, function () {
-        navMobile.hide();
+        navMobile.hide(); 
         menuMobile.show();
     });
 });
